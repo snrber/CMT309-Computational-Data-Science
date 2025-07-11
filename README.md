@@ -5,4 +5,4 @@ This is the 2023 CMT309 Semester 1 Computational Data Science coursework reposit
 3. .txt requirements.
 
 ## Grade
-1st Class.
+1st Class (74%).
